@@ -15,6 +15,9 @@ vendor/
 # logs
 *.log
 
+# bak
+*.bak
+
 # Compiled binary files
 *.exe
 *.out
